@@ -34,12 +34,6 @@ Neste cenário pós-apocalíptico, os jogadores devem colaborar em silêncio par
 
 ---
 
-## 📷 Imagens (Exemplos)
-
-> (adicione aqui imagens do tabuleiro, protótipos e momentos do evento)
-
----
-
 ## 🏫 Apresentação
 
 🗓️ **Apresentado em:** TechDesign 2025 – CESAR School  
